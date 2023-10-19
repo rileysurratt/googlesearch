@@ -1,5 +1,4 @@
 # googlesearch
-[![Netlify Status](https://api.netlify.com/api/v1/badges/88b7a26b-a39c-49b1-be42-8f8864c16728/deploy-status)](https://app.netlify.com/sites/gentle-crumble-93ef00/deploys)
 
 This was my first HTML project. I created a simple google search page with the ability to allow different features(links&buttons) to be interactive in the future
 
